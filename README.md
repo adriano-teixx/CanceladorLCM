@@ -43,3 +43,5 @@ Este sistema automatiza o cancelamento em lote de LCMs no SAP Business One, usan
 1. Clone o repositório:  
    ```bash
    git clone https://github.com/adriano-teixx/CanceladorLCM.git
+
+2. php -S localhost:8000 -t public
